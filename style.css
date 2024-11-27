@@ -20,7 +20,7 @@
      border-collapse: collapse;
 width: 100%;    
 }
-.table2 tr, .table2 th{
+.table2 td, .table2 th{
     border: 1px solid #ddd;
     padding: 8px;
 
@@ -32,5 +32,6 @@ width: 100%;
     padding-bottom: 12px;
     text-align: left;
 color: black;
+background-color: #b28c5f;
 
 }
